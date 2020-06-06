@@ -6,7 +6,7 @@
     if (firstLetter === 'j') {
       byeSpeaker.speak(haha[i]);
     } else {
-      helloSpeaker.speak(haha[i]);
+      hello.speak(haha[i]);
     }
   }
 })(window);
